@@ -1,2 +1,0 @@
-# ReactResponsiveMenu
-Created with CodeSandbox
